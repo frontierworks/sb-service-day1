@@ -17,6 +17,7 @@ Verify your Environment:
 IDE – IntelliJ Community Edition
 Free IDE options: STS, Eclipse, and Netbeans
 Microservice/API Testing: Postman tool
+Git installation: https://git-scm.com/download/mac
 
 Github Workflow: feature branch -> develop -> main
 Git Branching Models
